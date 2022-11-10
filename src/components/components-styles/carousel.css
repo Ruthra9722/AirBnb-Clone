@@ -1,0 +1,36 @@
+.carousel-heading{
+    margin: 20px 0px;
+}
+.div-container{
+    margin-left: 110px;
+    display: inline-flex;
+    flex-direction: row;
+    gap: 60px;
+  
+    
+}
+.divv{
+    height: 300px;
+    width: 500px;
+    border-radius: 15px;
+}
+.imgs{
+    height: 300px;
+    border-radius: 15px;
+}
+.contain{
+    position: absolute;
+    top: 180px;
+    margin-left: 20px;
+    color: #ffff;
+}
+.show{
+    position: absolute;
+    top: 420px;
+    margin-left: 20px;
+    border-radius: 10px;
+    border: 0;
+    font-size: 12px;
+    padding: 5px 10px 5px 10px;
+}
+
